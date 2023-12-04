@@ -1,4 +1,7 @@
 # LinkedIn Job Salary Prediction US 2023
+# Dataset Source
+https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
+
 # ABSTRACT
 In today's dynamic job market, understanding the factors influencing salary levels is crucial for both job seekers and employers. It is imperative to comprehend the factors that impact salary levels in the current dynamic job market. The goal of this project is to create a predictive model for salary estimation based on various job listing features by utilizing LinkedIn job posting data from Kaggle.
 
@@ -16,3 +19,5 @@ The report explores the benefits, capabilities, and visuals linked to each model
 As we proceed through the various stages of the project, which include feature selection, hyperparameter tuning, data preprocessing, and model evaluation, our goal is to deliver not only a predictive solution but also a detailed investigation of the underlying mechanisms driving model performances. We hope to have completed the project with a thorough assessment of each model's effectiveness, establishing the foundation for well-informed predictive analytics decision-making.
 
 This project sets out to investigate a wide range of feature selection strategies, from sophisticated wrapper and embedded techniques to more conventional filter methods. The goal is to deliberately select a subset of features that will both improve the predictive accuracy of the models and reveal the underlying patterns hidden in the dataset.
+
+
